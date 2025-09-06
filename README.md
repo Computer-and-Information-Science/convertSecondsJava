@@ -1,20 +1,5 @@
-Create a **book** class in java. 
-The student should have 3  private data members:
-* private String title
-* private String author
-* private int numberOfPages
+Write a program that converts a total number of seconds to hours, minutes, and seconds. It should (1) prompt the user for input, (2) read an integer from the keyboard, (3) calculate the result, and (4) use printf to display the output. For example, "5000 seconds = 1 hours, 23 minutes, and 20 seconds".
 
-  It should have one constructor, that takes in all three pieces of data, and assigns them using the **this** operator;
+**Hint:* Use the remainder operator.*
 
-  Each data member should have a corresponding *getter* that allows another program to **get** information about the book, and a *setter* that allows someone to **set**  information for the book.
-
-  It should also have a method called dispayBook() which will output information about the student in this way:
-  The book Harry Potter was written by J.K. Rowling and it has 309 pages.
-
-  In the main() method, create three **book** objects and call displayBook on them.
-
-  For one of the books, update the number of pages and display it again.
-
-
-  Make sure to rename your codespace so you can find this in the future!
-  
+You can complete this assignment in the Main class.
