@@ -1,0 +1,19 @@
+public class Book {
+  // put data members here
+
+  // put the constructor here
+  
+  // put getters here
+
+  // put setters here
+
+  //other member functions (methods here)
+  
+  public static void main(String[] args) {
+    
+    //create a student here
+
+    //call the displayStudent method here
+        
+    }
+}
